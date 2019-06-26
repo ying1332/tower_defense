@@ -1,2 +1,2 @@
-a tower defense game created from tech with tim's 12 hour livestream.
-You can view the Livestresm at http://www.youtube.com/watch?v=iLHAKXQBOoA.
+a tower defense game created from tech with tim's 12 hour livestream(added a little more to it).
+You can view the Livestream at http://www.youtube.com/watch?v=iLHAKXQBOoA.
