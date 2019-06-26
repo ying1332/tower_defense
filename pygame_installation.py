@@ -40,28 +40,9 @@ except:
     except:
 
         print("[EXCEPTION] Pip not installed on system")
-
-        print("[GAME] Trying to install pip")
-
-        get_pip.main()
-
-        print("[GAME] Pip has been installed")
-
-        try:
-
-            print("[GAME] Trying to install pygame")
-
-            import pip
-
-            install("pygame")
-
-            print("[GAME] Pygame has been installed")
-
-        except:
-
-            print("[ERROR 1] Pygame could not be installed")
+        quit()
 
 
-
+    #test
     import pygame
 
