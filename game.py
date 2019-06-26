@@ -241,6 +241,8 @@ class Game:
             self.draw()
             if self.lives <= 0:
                 print('You Lose')
+                file = open('waves.txt', 'w')
+                file.write(str(self.wave))
                 self.wave16()
                 run = False
 
